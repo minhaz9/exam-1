@@ -1,0 +1,551 @@
+header .menu .container_12so .menu_items .mobile_menu_check {
+    height: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+@media (max-width: 1230px) {
+    header {
+        padding: 2rem 2rem;
+    }
+
+    .container_12so {
+        max-width: 1200px !important;
+        margin: auto;
+        padding: 0rem 2rem;
+    }
+
+    html {
+        font-size: 9px;
+        scroll-behavior: smooth;
+    }
+
+    .subject_catagory {
+        background: #f3f8f9;
+        padding: 6rem 2rem 8rem 2rem;
+    }
+    .instructor {
+        background: #f9f8f8;
+        padding: 3rem 2rem;
+    }
+    .news_update {
+        background: #f9f8f8;
+        padding: 4rem 2rem 18rem 2rem;
+        position: relative;
+    }
+}
+@media (max-width: 983px) {
+    .subject_catagory .container_12so .inner_section .cards {
+        width: 31%;
+    }
+    .testimonial .container_12so .left_card .inner_section p {
+        font-size: 1.8rem;
+    }
+}
+@media (max-width: 1038px) {
+    html {
+        font-size: 8px;
+        scroll-behavior: smooth;
+    }
+    .testimonial .container_12so .left_card .inner_section p {
+        font-size: 2rem;
+    }
+}
+@media (max-width: 950px) {
+    .banner {
+        padding: 10rem 0rem 32rem 0;
+    }
+    .subject_catagory .container_12so .inner_section .cards a span {
+        display: block;
+    }
+    .subject_catagory .container_12so .inner_section .cards a article p {
+        font-size: 1.8rem;
+    }
+    .subject_catagory .container_12so .inner_section .cards a article h1 {
+        font-size: 2.4rem;
+        transition: .5s;
+    }
+    .top_courses .container_12so .subject_bottom .card {
+        width: 46%;
+    }
+    .top_courses .container_12so .subject_bottom .middle_card {
+        margin: 0% !important;
+    }
+    .top_courses .extra{
+        padding: 0 !important;
+    }
+    .top_courses .container_12so .subject_bottom .mt {
+        margin-top: 8% !important;
+    }
+    .top_courses .container_12so .subject_bottom .tm {
+        margin-top: 8% !important;
+    }
+    .top_courses .container_12so .subject_bottom .under_950{
+        margin-left: 8% !important;
+    }
+    .top_courses .container_12so .subject_bottom .card .image img {
+        border-radius: 4px;
+        width: 100%;
+    }
+} 
+@media (max-width: 915px) {
+    .banner {
+        padding: 10rem 0rem 32rem 0;
+    }
+    .top_courses .container_12so .subject_bottom .card {
+        width: 47%;
+    }
+    .top_courses .container_12so .subject_bottom .middle_card {
+        margin: 0% !important;
+    }
+    
+    .top_courses .extra{
+        padding: 0 !important;
+    }
+    .top_courses .container_12so .subject_bottom .mt {
+        margin-top: 4% !important;
+    }
+    .top_courses .container_12so .subject_bottom .tm {
+        margin-top: 4% !important;
+    }
+    .top_courses .container_12so .subject_bottom .under_950 {
+        margin-left: 3% !important;
+    }
+    .top_courses .container_12so .subject_bottom .card .image img {
+        border-radius: 4px;
+        width: 100%;
+    }
+}
+@media (max-width: 895px){
+    .banner {
+        padding: 10rem 0rem 32rem 0;
+    }
+    .top_courses .container_12so .subject_bottom .card {
+        width: 48%;
+    }
+    .top_courses .container_12so .subject_bottom .under_950 {
+        margin-left: 3% !important;
+    }
+}
+@media (max-width: 878px){
+    .banner {
+        padding: 10rem 0rem 32rem 0;
+    }
+    .top_courses .container_12so .subject_bottom .card {
+        width: 48%;
+    }
+    .top_courses .container_12so .subject_bottom .under_950 {
+        margin-left: 3% !important;
+    }
+    .top_courses .container_12so .subject_bottom .card h1 {
+        font-size: 2.6rem;
+    }
+    .top_header .container_12so .left_section {
+        width: 60% !important;
+    }
+    .top_header .container_12so .right_section {
+        width: 40% !important;
+    }
+    .testimonial .container_12so .left_card .inner_section p {
+        font-size: 1.9rem;
+    }
+    .news_update .container_12so .left_cards .inner_content .card .written h1 {
+        font-size: 2.2rem;
+    }
+}
+@media (max-width: 843px) {
+    .banner {
+        padding: 10rem 0rem 32rem 0;
+    }
+    .questions .container_12so .right_section .play_button {
+        top: 75%;
+    }
+    .questions .container_12so .right_section img {
+        /* height: 51rem; */
+        max-width: 100%;
+        height: auto;
+    }
+    .questions .container_12so .right_section {
+        /* float: right; */
+        width: 100%;
+        position: relative;
+    }
+    .questions .container_12so .left_ques {
+        background: #f9f8f8;
+        width: 100%;
+        padding: 2rem 3rem;
+        float: left;
+        height: 60rem;
+    }
+    .testimonial .container_12so .left_card {
+        width: 100%;
+    }
+    .testimonial .container_12so .jokhon_full {
+        margin-top: 6rem;
+    }
+}
+@media (max-width: 813px) {
+    .banner {
+        padding: 10rem 0rem 32rem 0;
+    }
+    .news_update .container_12so .left_cards .inner_content .card .written .coto_lekha span {
+        margin-right: 2rem;
+    }
+    .news_update .container_12so .left_cards .inner_content .card .written h1 {
+        font-size: 2rem;
+    }
+    .news_update .container_12so .right_cards .inner_content .card .brif h1 {
+        font-size: 2rem;
+    }
+    .questions .container_12so .right_section .play_button {
+        top: 45%;
+    }
+    
+}
+@media (max-width: 701px) {
+    .banner {
+        padding: 10rem 0rem 32rem 0;
+    }
+    html {
+        font-size: 7px;
+        scroll-behavior: smooth;
+    }
+    .news_update .container_12so .newsletter .inner_letter .right_input {
+        float: right;
+        width: 50%;
+        padding: 5.5rem 0rem;
+    }
+
+}
+@media (max-width: 726px) {
+    header .menu .container_12so .menu_items ul li a {
+        margin: 1.7rem 1.7rem;
+        font-size: 1.7rem;
+        display: block;
+    }
+    .news_update .container_12so .newsletter .inner_letter .right_input {
+        text-align: right;
+    }
+}
+@media (max-width: 744px) {
+    html {
+        font-size: 7px;
+        scroll-behavior: smooth;
+    }
+}
+@media (max-width: 681px) {
+    html {
+        font-size: 5px;
+        scroll-behavior: smooth;
+    }
+    .subject_catagory .container_12so .inner_section .cards a span {
+        display: block;
+        margin: auto;
+    }
+    .subject_catagory .container_12so .inner_section .cards {
+        width: 31%;
+        text-align: center;
+    }
+    .top_courses .container_12so .subject_bottom .card h1 {
+        font-size: 3.2rem;
+    }
+    header .menu .container_12so .menu_items ul li a::before {
+        top: 0;
+    }
+    header .menu .container_12so .menu_items ul li a::after {
+        top: 0;
+    }
+    .news_update .container_12so .newsletter .inner_letter .right_input {
+        text-align: right;
+    }
+
+}
+@media (max-width: 565px) {
+    .about_us_section .container_12so .left_section {
+        width: 100%;
+    }
+    .about_us_section .container_12so .right_section .inner_section ul li .lorem {
+        width: 78%;
+        font-size: 2.8rem;
+        padding: 2rem;
+    }
+    .about_us_section .container_12so .left_section {
+        width: 100%;
+    }
+    .about_us_section .container_12so .right_section .inner_section ul li .lorem {
+        width: 74%;
+        font-size: 2.5rem;
+        padding-left: 1rem;
+        text-align: justify;
+        position: relative;
+        top: -1rem;
+        line-height: 2.5rem;
+    }
+    .about_us_section .container_12so .right_section .inner_section ul li .tarikh {
+        font-size: 3.2rem;
+        width: 20.99%;
+        text-align: center;
+        border-right: 2px solid #21a7d07a;
+        color: #21a7d0;
+    }
+    .about_us_section .container_12so .right_section .inner_section ul li .lorem {
+        width: 74%;
+        font-size: 2.5rem;
+        padding-left: 1rem;
+        text-align: justify;
+        position: relative;
+        top: -2rem;
+        line-height: 2.5rem;
+    }
+    .every_heading .des {
+        font-size: 2.1rem;
+    }
+    .about_us_section .container_12so .right_section {
+        width: 100%;
+    }
+    .news_update .container_12so .left_cards .inner_content .card .written h1 {
+        display: block;
+        font-size: 3rem;
+    }
+    .news_update .container_12so .left_cards .inner_content .card .image {
+        float: left;
+        width: 30%;
+        overflow: hidden;
+    }
+    .news_update .container_12so .left_cards .inner_content .card .written {
+        float: right;
+        width: 70%;
+        padding: 1rem 2.5rem;
+    }
+    .news_update .container_12so .left_cards .inner_content .card .image img {
+        width: 100%;
+    }
+    .news_update .container_12so .left_cards {
+        float: left;
+        width: 100%;
+    }
+    .news_update .container_12so .left_cards .inner_content .card .image img {
+        height: 100%;
+    }
+    .news_update .container_12so .left_cards .inner_content .card {
+        height: 20.5rem;
+    }
+    .news_update .container_12so .right_cards {
+        width: 100%;
+        padding: 4rem 0rem;
+    }
+    .news_update .container_12so .right_cards .inner_content {
+        width: 100%;
+        margin: 0;
+    }
+    .news_update .container_12so .right_cards .inner_content .card .tarikh .inner_div h1 {
+        font-size: 5.6rem;
+        color: #26a9d2;
+    }
+    .news_update .container_12so .right_cards .inner_content .card .tarikh .inner_div p {
+        font-size: 2.4rem;
+    }
+    .news_update .container_12so .right_cards .inner_content .card .brif h1 {
+        font-size: 3.5rem;
+    }
+    .news_update .container_12so .right_cards .inner_content .card .brif p {
+        font-size: 2.4rem;
+    }
+    .every_heading_s .coto_header {
+        font-size: 2.5rem;
+    }
+    .every_heading_s h1 {
+        font-size: 4.2rem;
+        line-height: 6.7rem;
+    }
+    .every_heading_s h1 {
+        font-size: 4.2rem;
+        line-height: 6.7rem;
+        margin-bottom: 2rem;
+    }
+    .news_update .container_12so .newsletter .inner_letter .right_input {
+        text-align: right;
+    }
+}
+@media (max-width: 532px) {
+    .about_us_section .container_12so .left_section {
+        width: 100%;
+    }
+    .about_us_section .container_12so .right_section .inner_section ul li .lorem {
+        width: 78%;
+        font-size: 2.8rem;
+        padding: 2rem;
+    }
+    .about_us_section .container_12so .left_section {
+        width: 100%;
+    }
+    .about_us_section .container_12so .right_section .inner_section ul li .lorem {
+        width: 74%;
+        font-size: 2.5rem;
+        padding-left: 1rem;
+        text-align: justify;
+        position: relative;
+        top: -1rem;
+        line-height: 2.5rem;
+    }
+    .about_us_section .container_12so .right_section .inner_section ul li .tarikh {
+        font-size: 3.2rem;
+        width: 20.99%;
+        text-align: center;
+        border-right: 2px solid #21a7d07a;
+        color: #21a7d0;
+    }
+    .about_us_section .container_12so .right_section .inner_section ul li .lorem {
+        width: 74%;
+        font-size: 2.5rem;
+        padding-left: 1rem;
+        text-align: justify;
+        position: relative;
+        top: -2rem;
+        line-height: 2.5rem;
+    }
+    .every_heading .des {
+        font-size: 2.1rem;
+    }
+    .about_us_section .container_12so .right_section {
+        width: 100%;
+    }
+    .addmission_open .left_img {
+        width: 100%;
+    }
+    .addmission_open .right_brif .inner_section h1 {
+        font-size: 3.8rem;
+    }
+    .addmission_open .right_brif .inner_section p {
+        font-size: 2.6rem;
+        line-height: 3.5rem;
+    }
+    .addmission_open .right_brif {
+        width: 100%;
+    }
+    .button_round a {
+        font-size: 2.7rem;
+    }
+    .footer .container_12so .inner_content .inner_footer {
+        width: 50%;
+        padding: 0 6rem;
+    }
+    .footer .container_12so .inner_content .inner_footer ul li a {
+        font-size: 2.7rem;
+    }
+    .footer .container_12so .inner_content .inner_footer h1 {
+        font-size: 3.3rem;
+    }
+    .footer .container_12so .inner_content .footer_margin {
+        margin-top: 7rem;
+    }
+    .footer .container_12so .inner_content .inner_footer .address .written a {
+        font-size: 2.5rem;
+        line-height: 3.5rem;
+    }
+    .top_header{
+        padding: 1rem 0rem;
+    }
+    .top_header .container_12so .left_section {
+        width: 60% !important;
+        text-align: center;
+    }
+    .top_header .container_12so .left_section .email_section a {
+        font-size: 2.5rem;
+    }
+    .top_header .container_12so .left_section .address_section a {
+        font-size: 2.5rem;
+    }
+    .top_header .container_12so .right_section .inner_section .login_section{
+        display: block;
+    }
+    .top_header .container_12so .right_section .inner_section .login_section a{
+        font-size: 2.5rem;
+    }
+    .top_header .container_12so .right_section .inner_section .apply_button a {
+        font-size: 2.5rem;
+        margin-top: 1rem;
+    }
+    header .menu .container_12so .menu_items .mobile_menu_check {
+        position: absolute;
+        right: 3.6rem;
+        opacity: 0;
+        height: 2rem;
+        transition: .5s;
+    visibility: visible;
+      }
+      
+      header .menu .container_12so .menu_items .mobile_menu_check:checked ~ .mobile {
+        visibility: visible;
+        opacity: 1;
+        height: 100%;
+        transition: .5s;
+      }
+      
+      header .menu .container_12so .menu_items .mobile {
+        visibility: hidden;
+        opacity: 0;
+        height: 0;
+        text-align: right;
+    }
+      header .menu .container_12so .header_icon .three_dots a {
+        pointer-events: none;
+      }
+      header .menu .container_12so .menu_items ul li{
+          display: block;
+      }
+      header .menu .container_12so .menu_items ul li a{
+          display: inline-block;
+      }
+      header .menu .container_12so .menu_items ul li .coto {
+        right: 12rem !important;
+    }
+}
+@media (max-width: 400px) {
+    html {
+        font-size: 4px;
+        scroll-behavior: smooth;
+    }
+}
+@media (max-width: 495px) {
+    .top_header .container_12so .left_section .address_section a {
+        font-size: 2rem;
+    }
+    .banner .container_12so .inner_section h1 {
+        font-size: 4rem;
+        font-family: 'Nunito', sans-serif;
+        text-align: center;
+        margin: auto;
+    }
+    .about_us_section .container_12so .right_section .inner_section ul {
+        list-style: none;
+        margin-top: 4rem;
+    }
+}
+@media (max-width: 425px)  {
+    .about_us_section .container_12so .right_section .inner_section ul {
+        list-style: none;
+        margin-top: 4rem;
+    }
+    header .menu .container_12so .header_icon {
+        text-align: right;
+        width: 23%;
+    }
+    header .menu .container_12so .menu_items {
+        width: 68%;
+        margin-top: 1.5rem;
+    }
+}
+@media (min-width: 1331px)  {
+    .addmission_open .right_brif .inner_section {
+        width: 73rem;
+    }
+}
+@media (max-width: 626px)  {
+    .news_update .relation {
+        bottom: -14rem;
+    }
+}
+
+/* No CSS */
+/*# sourceMappingURL=responsive.css.map */
